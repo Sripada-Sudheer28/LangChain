@@ -1,0 +1,14 @@
+# Environment
+.env
+.venv/
+
+# Claude runtime memory
+.claude/agent-memory/
+
+# Python
+__pycache__/
+*.pyc
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
